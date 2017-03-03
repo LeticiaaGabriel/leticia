@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974560095663",
+    "firebase_url": "https://leticia.firebaseio.com",
+    "project_id": "leticia",
+    "storage_bucket": "leticia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974560095663:android:cd565825a8a4ba7d",
+        "android_client_info": {
+          "package_name": "com.example.lab.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974560095663-pi4j96dco4at2imtqg7ckjfki8pecfbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymgp3ViyhfrerCqhaaE-hZGNOJcRcf8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
